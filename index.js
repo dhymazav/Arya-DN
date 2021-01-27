@@ -2,7 +2,7 @@ console.log('Starting...')
 let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
-CFonts.say('TERMUX WHATSAPP BOT', {
+CFonts.say('SELAMAT DATANG DI SC AV', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
