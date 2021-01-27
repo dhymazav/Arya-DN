@@ -35,4 +35,4 @@ Simple WhatsApp Bot
 ```
 
 # About 🖇️
-Istagram : @offdhymaz [`Link`](https://istagram/offdhymaz) <sosmed>
+Istagram : @offdhymaz [`Link`](https://www.instagram.com/offdhymaz) <sosmed>
