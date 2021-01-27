@@ -35,7 +35,6 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'tools': 'Tools',
       'owner': 'Owner',
       'host': 'Host',
-      'advanced': 'Advanced',
       '': 'No Category',
     }
     for (let plugin of Object.values(global.plugins))
