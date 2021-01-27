@@ -35,4 +35,4 @@ Simple WhatsApp Bot
 ```
 
 # About 🖇️
-Istagram : @offdhymaz [`Link`](https://youtube.com/c/DrawlNag) <sosmed>
+Istagram : @offdhymaz [`Link`](https://istagram/offdhymaz) <sosmed>
